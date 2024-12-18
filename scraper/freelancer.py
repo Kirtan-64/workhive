@@ -61,7 +61,6 @@ for category in webpage.find_all("section", attrs={"class": "PageJob-category"})
                 print(f"Could not extract data from element: {element.get_text()}")
                 continue
 
-# Insert the dataset into MongoDB collection
 if dataset:
     collection.insert_many(dataset)  # Insert all job entries
     print(f"{len(dataset)} job records inserted into MongoDB.")
