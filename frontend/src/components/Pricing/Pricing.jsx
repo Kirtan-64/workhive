@@ -20,7 +20,7 @@ const Pricing = () => {
       <div className="md:flex lg:w-1/4 md:flex-col px-5">
         <div className="w-full flex-grow text-left">
           <h1 className="mb-5 text-4xl font-bold">Pricing</h1>
-          
+          Free triel availble only for 15 days
         </div>
         <div className="mb-2 w-full">
           <p className="text-xs">*Please read the terms.</p>
@@ -50,7 +50,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Lorem ipsum
+                  basic company
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -67,7 +67,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Dolor sit amet
+                  Ads
                 </li>
               </ul>
             </div>
@@ -99,7 +99,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Lorem ipsum
+                all jobs
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -116,7 +116,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Dolor sit amet
+                  24 hour support
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -133,7 +133,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Consectetur
+                  recomandation
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -150,7 +150,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Adipisicing
+                  fast appearanc of jobs
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -167,7 +167,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Elit repellat
+                  no ads
                 </li>
               </ul>
             </div>
@@ -199,7 +199,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Lorem ipsum
+                  Top MNC jobs
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -216,7 +216,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Dolor sit amet
+                  fast apply
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -233,7 +233,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Consectetur
+                  support from team
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
@@ -250,7 +250,7 @@ const Pricing = () => {
                       d="M5 13l4 4L19 7"
                     />
                   </svg>
-                  Adipisicing
+                  24 hour support
                 </li>
                 <li className="flex items-center leading-tight">
                   <svg
